@@ -580,5 +580,725 @@
    "respiroMm": 1.5,
    "corpoMm": 22
   }
+ },
+ {
+  "id": "rota-pasta-modeladora-s",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo S · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-s/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-s.pdf",
+  "tarja": "pasta-modeladora/rota-s/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-s/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-s-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-s",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo S · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-s/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-s.pdf",
+  "tarja": "pasta-modeladora/veleiros-s/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-s/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-s-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-t",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo T · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-t/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-t.pdf",
+  "tarja": "pasta-modeladora/rota-t/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-t/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-t-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-t",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo T · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-t/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-t.pdf",
+  "tarja": "pasta-modeladora/veleiros-t/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-t/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-t-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-u",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo U · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-u/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-u.pdf",
+  "tarja": "pasta-modeladora/rota-u/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-u/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-u-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-u",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo U · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-u/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-u.pdf",
+  "tarja": "pasta-modeladora/veleiros-u/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-u/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-u-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-v",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo V · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-v/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-v.pdf",
+  "tarja": "pasta-modeladora/rota-v/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-v/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-v-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-v",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo V · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-v/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-v.pdf",
+  "tarja": "pasta-modeladora/veleiros-v/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-v/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-v-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-w",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo W · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-w/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-w.pdf",
+  "tarja": "pasta-modeladora/rota-w/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-w/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-w-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-w",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo W · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-w/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-w.pdf",
+  "tarja": "pasta-modeladora/veleiros-w/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-w/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-w-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-x",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo X · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-x/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-x.pdf",
+  "tarja": "pasta-modeladora/rota-x/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-x/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-x-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-x",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo X · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-x/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-x.pdf",
+  "tarja": "pasta-modeladora/veleiros-x/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-x/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-x-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-y",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo Y · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-y/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-y.pdf",
+  "tarja": "pasta-modeladora/rota-y/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-y/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-y-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-y",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo Y · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-y/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-y.pdf",
+  "tarja": "pasta-modeladora/veleiros-y/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-y/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-y-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-z",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo Z · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-z/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-z.pdf",
+  "tarja": "pasta-modeladora/rota-z/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-z/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-z-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-z",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo Z · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-z/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-z.pdf",
+  "tarja": "pasta-modeladora/veleiros-z/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-z/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-z-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-aa",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AA · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-aa/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-aa.pdf",
+  "tarja": "pasta-modeladora/rota-aa/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-aa/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-aa-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-aa",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AA · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-aa/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-aa.pdf",
+  "tarja": "pasta-modeladora/veleiros-aa/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-aa/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-aa-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ab",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AB · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ab/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ab.pdf",
+  "tarja": "pasta-modeladora/rota-ab/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ab/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ab-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ab",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AB · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ab/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ab.pdf",
+  "tarja": "pasta-modeladora/veleiros-ab/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ab/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ab-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ac",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AC · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ac/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ac.pdf",
+  "tarja": "pasta-modeladora/rota-ac/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ac/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ac-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ac",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AC · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ac/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ac.pdf",
+  "tarja": "pasta-modeladora/veleiros-ac/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ac/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ac-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ad",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AD · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ad/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ad.pdf",
+  "tarja": "pasta-modeladora/rota-ad/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ad/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ad-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ad",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AD · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ad/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ad.pdf",
+  "tarja": "pasta-modeladora/veleiros-ad/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ad/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ad-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ae",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AE · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ae/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ae.pdf",
+  "tarja": "pasta-modeladora/rota-ae/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ae/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ae-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ae",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AE · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ae/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ae.pdf",
+  "tarja": "pasta-modeladora/veleiros-ae/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ae/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ae-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-af",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AF · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-af/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-af.pdf",
+  "tarja": "pasta-modeladora/rota-af/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-af/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-af-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-af",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AF · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-af/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-af.pdf",
+  "tarja": "pasta-modeladora/veleiros-af/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-af/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-af-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ag",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AG · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ag/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ag.pdf",
+  "tarja": "pasta-modeladora/rota-ag/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ag/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ag-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ag",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AG · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ag/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ag.pdf",
+  "tarja": "pasta-modeladora/veleiros-ag/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ag/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ag-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ah",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AH · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ah/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ah.pdf",
+  "tarja": "pasta-modeladora/rota-ah/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ah/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ah-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ah",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AH · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ah/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ah.pdf",
+  "tarja": "pasta-modeladora/veleiros-ah/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ah/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ah-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ai",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AI · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ai/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ai.pdf",
+  "tarja": "pasta-modeladora/rota-ai/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ai/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ai-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ai",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AI · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ai/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ai.pdf",
+  "tarja": "pasta-modeladora/veleiros-ai/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ai/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ai-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-aj",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AJ · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-aj/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-aj.pdf",
+  "tarja": "pasta-modeladora/rota-aj/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-aj/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-aj-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-aj",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AJ · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-aj/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-aj.pdf",
+  "tarja": "pasta-modeladora/veleiros-aj/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-aj/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-aj-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-ak",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AK · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-ak/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-ak.pdf",
+  "tarja": "pasta-modeladora/rota-ak/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-ak/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-ak-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-ak",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AK · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-ak/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-ak.pdf",
+  "tarja": "pasta-modeladora/veleiros-ak/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-ak/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-ak-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "rota-pasta-modeladora-al",
+  "marca": "Rota do Caribe",
+  "nome": "Tipo AL · Pasta Modeladora",
+  "tampa": "pasta-modeladora/rota-al/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-rota-al.pdf",
+  "tarja": "pasta-modeladora/rota-al/tarja.webp",
+  "tarjaHd": "pasta-modeladora/rota-al/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-rota-al-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
+ },
+ {
+  "id": "veleiros-pasta-modeladora-al",
+  "marca": "Veleiros do Caribe",
+  "nome": "Tipo AL · Pasta Modeladora",
+  "tampa": "pasta-modeladora/veleiros-al/tampa.webp",
+  "pdf": "https://github.com/brutob2b-pixel/Veleiros-lote2/releases/download/pdfs/pasta-modeladora-veleiros-al.pdf",
+  "tarja": "pasta-modeladora/veleiros-al/tarja.webp",
+  "tarjaHd": "pasta-modeladora/veleiros-al/tarja.webp",
+  "thumb": "thumbs/pasta-modeladora-veleiros-al-tampa.webp",
+  "pote": {
+   "tarjaMm": [
+    190,
+    17
+   ],
+   "respiroMm": 1.5,
+   "corpoMm": 22
+  }
  }
 ]
