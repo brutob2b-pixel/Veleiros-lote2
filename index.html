@@ -1219,6 +1219,13 @@ function atualizaBaixarArte() {
 /* download direto na tela do app: baixa o arquivo como blob "genérico" e salva com o nome certo.
    Um link comum para .pdf faz o celular/navegador abrir o visualizador numa página nova. */
 async function baixarArquivo(url, nome) {
+  // arquivo hospedado em outro site (PDFs na Release do GitHub): sem CORS não dá para usar fetch; o link direto baixa porque a resposta vem como "attachment"
+  if (/^https?:\/\//.test(url) && new URL(url).origin !== location.origin) {
+    const ext = document.createElement('a');
+    ext.href = url; ext.download = nome;
+    document.body.appendChild(ext); ext.click(); ext.remove();
+    return;
+  }
   try {
     const r = await fetch(url, { cache: 'no-store' });
     if (!r.ok) throw new Error(r.status);
@@ -1406,7 +1413,7 @@ async function carregarPasta() {
           // arquivo mestre em resolução real — só usado no botão de download
           fullTop: c.tampa ? 'artes/' + c.tampa : null,
           alt: c.alt, tampaMm: c.tampaMm, foco: c.foco, pote: c.pote, corPasta: c.corPasta,
-          pdf: c.pdf ? 'artes/' + c.pdf : null, ai: c.ai ? 'artes/' + c.ai : null, selo: c.selo || null, semNome: !!c.semNome, acabamento: c.acabamento || null,
+          pdf: c.pdf ? (/^https?:\/\//.test(c.pdf) ? c.pdf : 'artes/' + c.pdf) : null, ai: c.ai ? 'artes/' + c.ai : null, selo: c.selo || null, semNome: !!c.semNome, acabamento: c.acabamento || null,
           fullWrap: 'artes/' + c.tarja
         }));
         return achadas;
