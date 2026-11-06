@@ -322,6 +322,9 @@
       // the real change, however update() was invoked.
       controls.addEventListener('change', () => {
         this._needsRender = true;
+        // quanto mais perto da câmera, mais devagar gira o arrasto (senão o rótulo "escorrega" depressa de lado ao ampliar)
+        const d = camera.position.distanceTo(controls.target);
+        controls.rotateSpeed = Math.min(1, Math.max(0.2, d / (this._dist0 || d)));
       });
 
       const _size = new THREE.Vector2();
@@ -412,6 +415,7 @@
         this._controls.target.copy(sphere.center);
         this._controls.minDistance = sphere.radius * 0.6;
         this._controls.maxDistance = dist * 4;
+        this._dist0 = dist; // distância do enquadramento inicial: referência da velocidade de rotação
         this._controls.update();
         const span = sphere.radius * 3;
         this._key.shadow.camera.left = -span;
