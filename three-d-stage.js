@@ -275,6 +275,7 @@
       controls.dampingFactor = 0.08;
       // o objeto fica sempre no centro: sem arrastar de lado (pan), só girar e dar zoom
       controls.enablePan = false;
+      controls.zoomSpeed = 0.35; // o padrão (1) era rápido demais ao ampliar o rótulo (roda e pinça)
       this._controls = controls;
 
       // Neutral studio: soft sky/ground wash, a shadow-casting key light,
